@@ -1,0 +1,7 @@
+model\users1.class
+model\urole.class
+model\Product.class
+dao\ProductDaoImpl.class
+model\reg.class
+dao\ProductServiceImpl.class
+controller\ProductController.class
